@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomasCanavilhas
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML & Python
-- 💞️ I’m looking to collaborate on ISCTE
+- 🌱 I’m currently working with Java at Capgemini
+- 💞️ I’m studying Computer Science in ISCTE
 - 📫 How to reach me tomasccanavilhas@gmail.com
 
 <!---
